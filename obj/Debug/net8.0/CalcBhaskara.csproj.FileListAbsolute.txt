@@ -1,0 +1,12 @@
+C:\Users\SENAI3EM\Desktop\Abril\CalcBhaskara\bin\Debug\net8.0\CalcBhaskara.deps.json
+C:\Users\SENAI3EM\Desktop\Abril\CalcBhaskara\bin\Debug\net8.0\CalcBhaskara.dll
+C:\Users\SENAI3EM\Desktop\Abril\CalcBhaskara\bin\Debug\net8.0\CalcBhaskara.pdb
+C:\Users\SENAI3EM\Desktop\Abril\CalcBhaskara\obj\Debug\net8.0\CalcBhaskara.csproj.AssemblyReference.cache
+C:\Users\SENAI3EM\Desktop\Abril\CalcBhaskara\obj\Debug\net8.0\CalcBhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI3EM\Desktop\Abril\CalcBhaskara\obj\Debug\net8.0\CalcBhaskara.AssemblyInfoInputs.cache
+C:\Users\SENAI3EM\Desktop\Abril\CalcBhaskara\obj\Debug\net8.0\CalcBhaskara.AssemblyInfo.cs
+C:\Users\SENAI3EM\Desktop\Abril\CalcBhaskara\obj\Debug\net8.0\CalcBhaskara.csproj.CoreCompileInputs.cache
+C:\Users\SENAI3EM\Desktop\Abril\CalcBhaskara\obj\Debug\net8.0\CalcBhaskara.dll
+C:\Users\SENAI3EM\Desktop\Abril\CalcBhaskara\obj\Debug\net8.0\refint\CalcBhaskara.dll
+C:\Users\SENAI3EM\Desktop\Abril\CalcBhaskara\obj\Debug\net8.0\CalcBhaskara.pdb
+C:\Users\SENAI3EM\Desktop\Abril\CalcBhaskara\obj\Debug\net8.0\ref\CalcBhaskara.dll
